@@ -1,0 +1,30 @@
+# Julia
+*.jl.cov
+*.jl.*.cov
+*.jl.mem
+Manifest.toml
+
+# Build artifacts
+deps/deps.jl
+deps/build.log
+deps/downloads/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Plots
+*.png
+*.pdf
+plots/
+
+# Data
+data/
+results/
