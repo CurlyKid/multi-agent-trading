@@ -387,7 +387,7 @@ If you use this code in your research, please cite:
 
 ---
 
-**Portfolio Project** - Demonstrates senior-level skills in:
+**Portfolio Project** - Demonstrates adequate skills in:
 - Reinforcement Learning (Q-learning, Policy Gradients)
 - POMDP Framework (Partial Observability, Belief States)
 - Multi-Agent Systems (Coordination, Emergent Behavior)
